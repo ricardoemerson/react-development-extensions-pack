@@ -1,0 +1,29 @@
+{
+    "name": "ionic-development-extensions-pack",
+    "displayName": "Ionic Development Extensions Pack",
+    "description": "A set of useful extensions for Ionic project.",
+    "version": "1.0.0",
+    "publisher": "ricardo-emerson",
+    "icon": "extension-icon.png",
+    "repository": "https://github.com/ricardoemerson/ionic-development-extensions-pack",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "keywords": [
+		"Ionic",
+		"Ionic Framework"
+	],
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "4tron.ionic4-snippets-vscode",
+        "danielehrhardt.ionic3-vs-ionView-snippets",
+        "fivethree.vscode-ionic-snippets",
+        "siteslave.ionic3-snippets",
+        "vsmobile.cordova-tools"
+    ],
+	"__metadata": {
+		"publisherDisplayName": "Ricardo Emerson"
+	}
+}
