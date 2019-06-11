@@ -1,27 +1,26 @@
 {
-    "name": "ionic-development-extensions-pack",
-    "displayName": "Ionic Development Extensions Pack",
-    "description": "A set of useful extensions for Ionic project.",
+    "name": "react-development-extensions-pack",
+    "displayName": "React and React Native Development Extensions Pack",
+    "description": "A set of useful extensions for React and React Native project.",
     "version": "1.0.0",
     "publisher": "ricardo-emerson",
     "icon": "extension-icon.png",
-    "repository": "https://github.com/ricardoemerson/ionic-development-extensions-pack",
+    "repository": "https://github.com/ricardoemerson/react-development-extensions-pack",
     "engines": {
         "vscode": "^1.26.0"
     },
     "keywords": [
-		"Ionic",
-		"Ionic Framework"
+		"React and React Native",
+		"React and React Native Framework"
 	],
     "categories": [
         "Extension Packs"
     ],
     "extensionPack": [
-        "4tron.ionic4-snippets-vscode",
-        "danielehrhardt.ionic3-vs-ionView-snippets",
-        "fivethree.vscode-ionic-snippets",
-        "siteslave.ionic3-snippets",
-        "vsmobile.cordova-tools"
+        "msjsdiag.vscode-react-native",
+        "dsznajder.es7-react-js-snippets",
+        "rocketseat.rocketseatreactjs",
+        "rocketseat.rocketseatreactnative"
     ],
 	"__metadata": {
 		"publisherDisplayName": "Ricardo Emerson"
