@@ -1,28 +1,30 @@
 {
-    "name": "react-development-extensions-pack",
-    "displayName": "React and React Native Development Extensions Pack",
-    "description": "A set of useful extensions for React and React Native project.",
-    "version": "1.0.0",
-    "publisher": "ricardo-emerson",
-    "icon": "extension-icon.png",
-    "repository": "https://github.com/ricardoemerson/react-development-extensions-pack",
-    "engines": {
-        "vscode": "^1.26.0"
-    },
-    "keywords": [
-		"React and React Native",
-		"React and React Native Framework"
-	],
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionPack": [
-        "msjsdiag.vscode-react-native",
-        "dsznajder.es7-react-js-snippets",
-        "rocketseat.rocketseatreactjs",
-        "rocketseat.rocketseatreactnative"
-    ],
-	"__metadata": {
-		"publisherDisplayName": "Ricardo Emerson"
-	}
+  "name": "react-development-extensions-pack",
+  "displayName": "React and React Native Development Extensions Pack",
+  "description": "A set of useful extensions for React and React Native project.",
+  "version": "1.1.0",
+  "publisher": "ricardo-emerson",
+  "icon": "extension-icon.png",
+  "repository": "https://github.com/ricardoemerson/react-development-extensions-pack",
+  "engines": {
+    "vscode": "^1.26.0"
+  },
+  "keywords": [
+    "React and React Native",
+    "React and React Native Framework"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "dsznajder.es7-react-js-snippets",
+    "rocketseat.rocketseatreactjs",
+    "rocketseat.rocketseatreactnative",
+    "milobo.react-native-styled-component-snippets",
+    "msjsdiag.vscode-react-native",
+    "jpoissonnier.vscode-styled-components"
+  ],
+  "__metadata": {
+    "publisherDisplayName": "Ricardo Emerson"
+  }
 }
