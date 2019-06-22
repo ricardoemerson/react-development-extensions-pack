@@ -2,7 +2,7 @@
   "name": "react-development-extensions-pack",
   "displayName": "React and React Native Development Extensions Pack",
   "description": "A set of useful extensions for React and React Native project.",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "publisher": "ricardo-emerson",
   "icon": "extension-icon.png",
   "repository": "https://github.com/ricardoemerson/react-development-extensions-pack",
@@ -18,11 +18,13 @@
   ],
   "extensionPack": [
     "dsznajder.es7-react-js-snippets",
-    "rocketseat.rocketseatreactjs",
-    "rocketseat.rocketseatreactnative",
+    "EQuimper.react-native-react-redux",
+    "jpoissonnier.vscode-styled-components",
     "milobo.react-native-styled-component-snippets",
     "msjsdiag.vscode-react-native",
-    "jpoissonnier.vscode-styled-components"
+    "rocketseat.rocketseatreactjs",
+    "rocketseat.rocketseatreactnative",
+    "wix.glean"
   ],
   "__metadata": {
     "publisherDisplayName": "Ricardo Emerson"
