@@ -1,6 +1,6 @@
-# VS Code Ionic Development Extensions Pack
+# React and React Native Extensions Package
 
-This extension pack packages some useful extensions for Ionic development in VS Code.
+This extension package contains useful extensions for working with React and React Native in visual studio code.
 
 ### Extensions Included
 

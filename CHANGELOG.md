@@ -2,6 +2,10 @@
 
 All notable changes to the "react-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.3.1]
+
+- Fix the README and extension icon size.
+
 ## [1.3.0]
 
 - Removed the React Native styled component Snippets extension.
