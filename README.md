@@ -4,6 +4,7 @@ This extension package contains useful extensions for working with React and Rea
 
 ### Extensions Included
 
+- [Create React TSX Component](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.create-react-tsx-component) - Extension that creates React Component using Typescript with Styled Components.
 - [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) - Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax.
 - [glean](https://marketplace.visualstudio.com/items?itemName=wix.glean) - The extension provides refactoring tools for your React codebase.
 - [React Native Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native) - Debugging and integrated commands for React Native.
