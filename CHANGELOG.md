@@ -2,9 +2,13 @@
 
 All notable changes to the "react-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.4.1]
+
+- Updated Readme.md file.
+
 ## [1.4.0]
 
-- Added the Create React TSX Component extensio.
+- Added the Create React TSX Component extension.
 
 ## [1.3.1]
 

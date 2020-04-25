@@ -1,5 +1,10 @@
 # React and React Native Extensions Package
 
+[![Version](https://vsmarketplacebadge.apphb.com/version/ricardo-emerson.react-development-extensions-pack.svg)](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.react-development-extensions-pack)
+[![Install](https://vsmarketplacebadge.apphb.com/installs/ricardo-emerson.react-development-extensions-pack.svg)](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.react-development-extensions-pack)
+[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/ricardo-emerson.react-development-extensions-pack.svg)](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.react-development-extensions-pack)
+[![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/ricardo-emerson.react-development-extensions-pack.svg)](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.react-development-extensions-pack&ssr=false#review-details)
+
 This extension package contains useful extensions for working with React and React Native in visual studio code.
 
 ### Extensions Included
