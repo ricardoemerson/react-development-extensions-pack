@@ -2,7 +2,7 @@
   "name": "react-development-extensions-pack",
   "displayName": "React and React Native Development Extensions Pack",
   "description": "A set of useful extensions for React and React Native project.",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "publisher": "ricardo-emerson",
   "icon": "extension-icon.png",
   "repository": "https://github.com/ricardoemerson/react-development-extensions-pack",

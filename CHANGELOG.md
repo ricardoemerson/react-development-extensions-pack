@@ -2,9 +2,13 @@
 
 All notable changes to the "react-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.4.2]
+
+- Updated the name of extension Create React and React Native TSX Component in README.md file.
+
 ## [1.4.1]
 
-- Updated Readme.md file.
+- Updated README.md file.
 
 ## [1.4.0]
 
