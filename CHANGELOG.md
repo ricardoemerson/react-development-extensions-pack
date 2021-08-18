@@ -2,6 +2,13 @@
 
 All notable changes to the "react-development-extensions-pack" extension pack will be documented in this file.
 
+
+## [1.4.3]
+
+- Removed the glean component Snippets extension.
+- Removed the Rocketseat React Native component Snippets extension.
+- Removed the Rocketseat ReactJS component Snippets extension.
+
 ## [1.4.2]
 
 - Updated the name of extension Create React and React Native TSX Component in README.md file.

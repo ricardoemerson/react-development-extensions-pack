@@ -2,7 +2,7 @@
   "name": "react-development-extensions-pack",
   "displayName": "React and React Native Development Extensions Pack",
   "description": "A set of useful extensions for React and React Native project.",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "publisher": "ricardo-emerson",
   "icon": "extension-icon.png",
   "repository": "https://github.com/ricardoemerson/react-development-extensions-pack",
@@ -13,7 +13,6 @@
     "React",
     "React Native",
     "Pack",
-    "rocketseat",
     "styled-components",
     "redux"
   ],
@@ -25,10 +24,7 @@
     "EQuimper.react-native-react-redux",
     "jpoissonnier.vscode-styled-components",
     "msjsdiag.vscode-react-native",
-    "ricardo-emerson.create-react-tsx-component",
-    "rocketseat.rocketseatreactjs",
-    "rocketseat.rocketseatreactnative",
-    "wix.glean"
+    "ricardo-emerson.create-react-tsx-component"
   ],
   "__metadata": {
     "publisherDisplayName": "Ricardo Emerson"
