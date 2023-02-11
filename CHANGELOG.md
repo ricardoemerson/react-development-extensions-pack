@@ -3,6 +3,10 @@
 All notable changes to the "react-development-extensions-pack" extension pack will be documented in this file.
 
 
+## [1.5.1]
+
+- Updated the badges in README.md.
+
 ## [1.5.0]
 
 - Removed the glean component Snippets extension.

@@ -1,9 +1,10 @@
 # React and React Native Extensions Package
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/ricardo-emerson.react-development-extensions-pack.svg)](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.react-development-extensions-pack)
-[![Install](https://vsmarketplacebadge.apphb.com/installs/ricardo-emerson.react-development-extensions-pack.svg)](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.react-development-extensions-pack)
-[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/ricardo-emerson.react-development-extensions-pack.svg)](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.react-development-extensions-pack)
-[![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/ricardo-emerson.react-development-extensions-pack.svg)](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.react-development-extensions-pack&ssr=false#review-details)
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/ricardo-emerson.react-development-extensions-pack.svg?style=flat-square)
+![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/ricardo-emerson.react-development-extensions-pack.svg?style=flat-square)
+![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/ricardo-emerson.react-development-extensions-pack.svg?style=flat-square)
+![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/ricardo-emerson.react-development-extensions-pack.svg?style=flat-square)
+[![GitHub](https://img.shields.io/github/stars/ricardoemerson/react-development-extensions-pack.svg?style=flat-square)](https://github.com/ricardoemerson/react-development-extensions-pack)
 
 This extension package contains useful extensions for working with React and React Native in visual studio code.
 
